@@ -5,7 +5,7 @@
 Let's start by creating a new Rust project. In your terminal, run:
 
 ```
-cargo new deriv-mcp-server
+cargo new rust_counter_mcp
 ```
 
 This will create a new folder with the basic Rust project structure. Now, let's edit the `Cargo.toml` file to add the dependencies we'll need:
