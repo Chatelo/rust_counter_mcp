@@ -1,4 +1,6 @@
-# Step 1: Project Setup
+# MCP IMPLEMENTATION IN RUST - TUTORIAL by Chatelo.
+
+## Step 1: Project Setup
 
 Let's start by creating a new Rust project. In your terminal, run:
 
